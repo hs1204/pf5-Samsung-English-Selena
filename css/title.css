@@ -1,0 +1,14 @@
+#title {
+  
+  background-color: #e4e2e2;
+}
+#title .wrap {
+  height: 100%;
+  gap: 15px;
+}
+#title .wrap h2 {
+  order: 2;
+}
+#title .wrap p {
+  order: 1;
+}
